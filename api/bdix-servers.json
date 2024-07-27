@@ -1148,5 +1148,13 @@
             "LinkSpan": "uniqueLink",
             "speedSpan": "uniqueSpeed"
         }
+                {
+            "ServerName": "Likhon FTP",
+            "Address": "http://likhon.xyz/",
+            "Description": "🌐 FTP",
+            "ResultSpan": "Likhon",
+            "LinkSpan": "LikhonLink",
+            "speedSpan": "LikhonSpeed"
+        }
     ]
 }
